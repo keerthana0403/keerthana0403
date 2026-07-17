@@ -56,10 +56,10 @@ Full-stack expense tracker with secure authentication and real-time expense mana
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[keerthana0403]&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthana0403&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=[keerthana0403]&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=keerthana0403&theme=default" alt="GitHub Streak" />
 </p>
 ---
  
