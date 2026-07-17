@@ -54,14 +54,13 @@ Full-stack expense tracker with secure authentication and real-time expense mana
 ---
 
 ### 📊 GitHub Stats
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[keerthana0403]&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[keerthana0403]" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=[YOUR_USERNAME]&theme=default" alt="GitHub Streak" />
 </p>
-
 ---
-
+ 
 <p align="center"><i>Open to frontend, MERN stack, and React developer roles — let's connect!</i></p>
