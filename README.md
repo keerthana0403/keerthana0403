@@ -51,13 +51,5 @@ Full-stack expense tracker with secure authentication and real-time expense mana
 **Tech:** React · Node.js · Express · MongoDB · JWT
 🔗 [Live Demo](https://mern-expense-tracker-five.vercel.app/)
 
----
-
-### 📊 GitHub Activity
- 
-<p align="center">
-  <img src="https://ghchart.rshah.org/keerthana0403" alt="GitHub Contribution Graph" />
-</p>
----
  
 <p align="center"><i>Open to frontend, MERN stack, and React developer roles — let's connect!</i></p>
