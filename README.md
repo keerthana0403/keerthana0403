@@ -14,7 +14,7 @@
 - 💻 Frontend/MERN stack developer with hands-on experience building enterprise-scale React applications
 - 🔭 Actively job hunting and open to frontend / MERN stack opportunities
 - 🌱 Deepening my skills in Next.js, TypeScript, and AI API integration
-- 📫 Reach me at **[keerthanae0403@gmail.com]**
+- 📫 Reach me at **keerthanae0403@gmail.com**
 
 ---
 
